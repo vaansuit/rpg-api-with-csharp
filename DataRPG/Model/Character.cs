@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace DataRPG.Model
 {
-    internal class Character
+    public class Character : BaseModel
     {
+        public string Breed { get; set; }
+        public string BaseDamage { get; set; }
+        public string Class { get; set; }
     }
 }

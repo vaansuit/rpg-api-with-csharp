@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DataRPG",
+    "\\DataRPG\\Model",
+    "\\DataRPG\\Repository",
+    "\\FakeRPGApi",
+    "\\FakeRPGApi\\Controllers"
   ],
+  "SelectedNode": "\\DataRPG\\Model",
   "PreviewInSolutionExplorer": false
 }

@@ -13,20 +13,20 @@ namespace DataRPG.Repository
         public virtual List<T> GetAll()
         {
             List<T> list = new List<T>();
-            using (RPGContext warrenContext = new RPGContext()) //o using faz a conexão com o banco de dados ser fechada, para gerar mais segurança
+            using (RPGContext rpgContext = new RPGContext()) //o using faz a conexão com o banco de dados ser fechada, para gerar mais segurança
             {
-                list = warrenContext.Set<T>().ToList(); //transformando a classe em genérica
+                list = rpgContext.Set<T>().ToList(); //transformando a classe em genérica
             }
             return list;
         }
 
         public virtual string Create(T model)
         {
-            using (RPGContext warrenContext = new RPGContext())
+            using (RPGContext rpgContext = new RPGContext())
             {
-                warrenContext.Set<T>().Add(model);
+                rpgContext.Set<T>().Add(model);
                 //adiciona a info em baixo sempre que faz uma alteração no banco
-                warrenContext.SaveChanges();
+                rpgContext.SaveChanges();
             }
 
             return "Created";

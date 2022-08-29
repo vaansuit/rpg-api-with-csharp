@@ -2,17 +2,17 @@
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
-using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace DataRPG.Context
 {
-    internal class RPGContext
+    public class RPGContext :DbContext
     {
         #region Props
         public DbSet<Character> Character { get; set; }
+        public DbSet<WeaponModel> Weapon { get; set; }
         #endregion
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

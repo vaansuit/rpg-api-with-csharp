@@ -6,11 +6,11 @@ namespace FakeRPGApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class AnimalController : ControllerBase
+    public class CharacterController : ControllerBase
     {
         private CharacterRepository repo;
 
-        public AnimalController()
+        public CharacterController()
         {
             this.repo = new CharacterRepository();
         }
