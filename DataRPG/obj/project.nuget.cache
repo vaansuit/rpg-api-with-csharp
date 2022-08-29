@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "xYh16WZfcVJnevQA+OZiYPks+DMoYf2UbKMh7M2FguZs4bXY2Izn+5SbFEqWL5gq7b0J6ucbAWH2SWX1T5ucYw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Felipe.Bortolini\\Desktop\\C#_Warren\\rpg-api-with-csharp\\DataRPG\\DataRPG.csproj",
@@ -45,5 +46,11 @@
     "C:\\Users\\Felipe.Bortolini\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\Felipe.Bortolini\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "QEFk9LJHHmsU+MP1uFSy+ePZQL2jHmAmzn3DfTPcmADAyzEvwm6/Jps85OyB2a2jWGiwHsAd9++Zi+5wP7Kk4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victor.vansuit\\Documents\\api\\FakeRPGApi\\DataRPG\\DataRPG.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> 3f77e8df3edceeb693bbb47862c88426917be518
   "logs": []
 }

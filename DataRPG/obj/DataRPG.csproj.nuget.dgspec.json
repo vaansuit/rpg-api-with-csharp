@@ -43,6 +43,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+<<<<<<< HEAD
           "dependencies": {
             "EntityFramework": {
               "target": "Package",
@@ -69,6 +70,8 @@
               "version": "[6.0.6, )"
             }
           },
+=======
+>>>>>>> 3f77e8df3edceeb693bbb47862c88426917be518
           "imports": [
             "net461",
             "net462",

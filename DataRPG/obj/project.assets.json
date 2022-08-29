@@ -1,6 +1,7 @@
 {
   "version": 3,
   "targets": {
+<<<<<<< HEAD
     "net6.0": {
       "EntityFramework/6.4.4": {
         "type": "package",
@@ -1749,8 +1750,13 @@
         "version.txt"
       ]
     }
+=======
+    "net6.0": {}
+>>>>>>> 3f77e8df3edceeb693bbb47862c88426917be518
   },
+  "libraries": {},
   "projectFileDependencyGroups": {
+<<<<<<< HEAD
     "net6.0": [
       "EntityFramework >= 6.4.4",
       "Microsoft.EntityFrameworkCore >= 6.0.8",
@@ -1758,6 +1764,9 @@
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.8",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 6.0.6"
     ]
+=======
+    "net6.0": []
+>>>>>>> 3f77e8df3edceeb693bbb47862c88426917be518
   },
   "packageFolders": {
     "C:\\Users\\Felipe.Bortolini\\.nuget\\packages\\": {},
@@ -1802,6 +1811,7 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
+<<<<<<< HEAD
         "dependencies": {
           "EntityFramework": {
             "target": "Package",
@@ -1828,6 +1838,8 @@
             "version": "[6.0.6, )"
           }
         },
+=======
+>>>>>>> 3f77e8df3edceeb693bbb47862c88426917be518
         "imports": [
           "net461",
           "net462",
