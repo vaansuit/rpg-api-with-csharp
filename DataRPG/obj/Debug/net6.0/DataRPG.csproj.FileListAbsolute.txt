@@ -1,0 +1,14 @@
+C:\Users\victor.vansuit\Documents\api\FakeRPGApi\DataRPG\bin\Debug\net6.0\DataRPG.deps.json
+C:\Users\victor.vansuit\Documents\api\FakeRPGApi\DataRPG\bin\Debug\net6.0\DataRPG.runtimeconfig.json
+C:\Users\victor.vansuit\Documents\api\FakeRPGApi\DataRPG\bin\Debug\net6.0\DataRPG.dll
+C:\Users\victor.vansuit\Documents\api\FakeRPGApi\DataRPG\bin\Debug\net6.0\DataRPG.pdb
+C:\Users\victor.vansuit\Documents\api\FakeRPGApi\DataRPG\obj\Debug\net6.0\DataRPG.csproj.AssemblyReference.cache
+C:\Users\victor.vansuit\Documents\api\FakeRPGApi\DataRPG\obj\Debug\net6.0\DataRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.vansuit\Documents\api\FakeRPGApi\DataRPG\obj\Debug\net6.0\DataRPG.AssemblyInfoInputs.cache
+C:\Users\victor.vansuit\Documents\api\FakeRPGApi\DataRPG\obj\Debug\net6.0\DataRPG.AssemblyInfo.cs
+C:\Users\victor.vansuit\Documents\api\FakeRPGApi\DataRPG\obj\Debug\net6.0\DataRPG.csproj.CoreCompileInputs.cache
+C:\Users\victor.vansuit\Documents\api\FakeRPGApi\DataRPG\obj\Debug\net6.0\DataRPG.dll
+C:\Users\victor.vansuit\Documents\api\FakeRPGApi\DataRPG\obj\Debug\net6.0\refint\DataRPG.dll
+C:\Users\victor.vansuit\Documents\api\FakeRPGApi\DataRPG\obj\Debug\net6.0\DataRPG.pdb
+C:\Users\victor.vansuit\Documents\api\FakeRPGApi\DataRPG\obj\Debug\net6.0\DataRPG.genruntimeconfig.cache
+C:\Users\victor.vansuit\Documents\api\FakeRPGApi\DataRPG\obj\Debug\net6.0\ref\DataRPG.dll
